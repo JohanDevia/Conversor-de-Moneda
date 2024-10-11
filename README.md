@@ -32,6 +32,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 ## Ejemplo de uso
 Al ejecutar el programa te mostrara un menu inicial.
+
 ![img.png](img.png)
 
 Te pedira que elijas una moneda base de la lista para iniciar.
